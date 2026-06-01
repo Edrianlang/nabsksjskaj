@@ -1,29 +1,20 @@
 {
-  "settings": {
-    "status": "online",
-    "global_message": "Welcome! Season 4 Mod Menu is now Active."
-  },
   "users": [
     {
       "username": "User1",
       "key": "XBOX-EYEGJ-4MD2A",
       "status": "active",
       "expiry_type": "days",
-      "time_left": "5"
+      "time_left": "5",
+      "device_id": "8c94b2a10f3e7a6c" 
     },
     {
       "username": "Modder88",
       "key": "XBOX-NEXTGEN-8899",
       "status": "active",
       "expiry_type": "hours",
-      "time_left": "24"
-    },
-    {
-      "username": "Scammer123",
-      "key": "XBOX-EXPIRED-KEY0",
-      "status": "banned",
-      "expiry_type": "days",
-      "time_left": "0"
+      "time_left": "24",
+      "device_id": "none"
     }
   ]
 }
