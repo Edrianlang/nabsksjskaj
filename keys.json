@@ -2,10 +2,19 @@
   "users": [
     {
       "username": "ian",
-      "key": "ian1",
+      "key": "ian-123",
       "status": "active",
       "device_id": "5e344249017398f3",
-      "duration_minutes": 1 
+      "duration": 1,
+      "expiry_type": "minutes"
+    },
+    {
+      "username": "UserTest",
+      "key": "XBOX-TEST-12345",
+      "status": "active",
+      "device_id": "another_device_id",
+      "duration": 45,
+      "expiry_type": "minutes"
     }
   ]
 }
