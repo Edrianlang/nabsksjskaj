@@ -2,10 +2,10 @@
   "users": [
     {
       "username": "ian",
-      "key": "ian",
+      "key": "ian1",
       "status": "active",
       "device_id": "5e344249017398f3",
-      "duration": 1,
+      "duration": 2,
       "expiry_type": "minutes"
     },
     {
