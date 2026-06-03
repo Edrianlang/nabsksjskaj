@@ -15,6 +15,14 @@
       "device_id": "another_device_id",
       "duration": 45,
       "expiry_type": "minutes"
-    }
+
+      },
+    {
+      "username": "igop",
+      "key": "ian-c3b1cd68-79cb-4423-8666-80b4e7ceca36",
+      "status": "active",
+      "device_id": "another_device_id",
+      "duration": 10000,
+      "expiry_type": "days"
   ]
 }
