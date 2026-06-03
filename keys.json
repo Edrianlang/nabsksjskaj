@@ -1,12 +1,12 @@
 {
   "users": [
     {
-      "username": "ian",
-      "key": "test",
+      "username": "john",
+      "key": "ian-3c4bd3a4-1550-4864-903d-e95f03bef0aa",
       "status": "active",
       "device_id": "5e344249017398f3",
-      "duration": 2,
-      "expiry_type": "minutes"
+      "duration": 1000,
+      "expiry_type": "days"
     },
     {
       "username": "UserTest",
