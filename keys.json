@@ -23,7 +23,7 @@
       "status": "active",
       "device_id": "2179d9200e3de2b2",
       "duration": 5,
-      "expiry_type": "days"
+      "expiry_type": "minutes"
     }
   ]
 }
