@@ -24,6 +24,6 @@
       "device_id": "another_device_id",
       "duration": 10000,
       "expiry_type": "days"
-      ]
+    }
   ]
 }
